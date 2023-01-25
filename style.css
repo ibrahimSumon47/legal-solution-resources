@@ -62,7 +62,10 @@ body {
   color: #F3F3F3;
 }
 
-/* Footer button  */
+/* Footer */
+.contact-logo{
+  width: 20px;
+}
 .footer-button-style {
   background: #B68C5A;
   color: #FFFFFF;
