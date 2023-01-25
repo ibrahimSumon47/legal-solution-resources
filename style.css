@@ -22,7 +22,6 @@ body {
   text-decoration: none;
 }
 
-
 /* banner styles */
 
 .banner-description {
@@ -44,7 +43,8 @@ body {
   z-index: 1;
 }
 
-/ card styles .card {
+/* card styles */
+.card {
   border: 1px solid #E7E7E7;
 }
 
@@ -63,9 +63,10 @@ body {
 }
 
 /* Footer */
-.contact-logo{
+.contact-logo {
   width: 20px;
 }
+
 .footer-button-style {
   background: #B68C5A;
   color: #FFFFFF;
